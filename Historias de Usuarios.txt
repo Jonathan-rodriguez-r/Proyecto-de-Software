@@ -1,0 +1,25 @@
+** Planeación **
+
+-- Como Defensor de familia del ICBF quiero solicitar y recibir copias simples de registros civiles para dar seguimiento a los casos PARD abiertos.
+
+Criterios de aceptación:
+* El usuario deberá estar logueado con el rol solicitante para poder crear solicitudes.
+* En cada solicitud debera adjuntar nombres y apellidos del NNA, id del caso PARD y el serial del registro civil.
+
+-- Como funcionario autorizado por la registraduria quiero recibir y enviar las solicitudes; ademas,  dar seguimiento para optimizar los tiempos de respuesta a las mismas.
+
+Criterios de aceptación:
+* Debe estar Logeuado con el rol de tramitador de solicitudes.
+* Debera consultar de manera manual en las bases de datos de la registraduría.
+* Debera adjuntar de manera manual los registros consultados.
+
+-- Como regulador de la registraduría Colombiana quiero auditar las solicitudes de registros civiles para dar seguimiento de manera sencilla al convenio firmado por la Registraduría y el ICBF.
+
+Criterios de aceptación:
+* Debe estar Logeuado con el rol de auditor.
+
+-- Como coordinador de las autoridades administrativas quiero llevar un seguimiento detallado de la cantidad de solicitudes recibidas y enviadas de registros civiles para llevar a cabo estrategías para la resolución rápida de los PARD.
+
+Criterios de aceptación:
+* Debe estar Logeuado con el rol de Coordinador.
+* Deberá analizar los datos mostrados en los informes existentes. 
